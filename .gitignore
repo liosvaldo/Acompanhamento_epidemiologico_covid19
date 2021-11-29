@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Liosvaldo 
+covid19_caso_full.csv.gz
+Figure.png
+caso_full.csv
+api.py
+developer_api.py
